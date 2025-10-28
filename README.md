@@ -63,5 +63,5 @@ Always building, always learning — and having fun along the way.
 ## Quick Contact 📨
 
 - Email: bbalint139@gmail.com
-- Instagram: [@balagbalint](www.instagram.com/balagbalint)
+- Instagram: <a href="https://www.instagram.com/balagbalint">@balagbalint</a>
 - Github: [@datwalkerv](https://github.com/datwalkerv)
