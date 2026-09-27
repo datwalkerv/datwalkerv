@@ -9,12 +9,12 @@
 
 I love creating things that feel good to use.  Practical apps that simplify life and systems that quietly do the heavy lifting. My goal is always the same: make something genuinely useful, elegant, and built to last.
 
-- 🔭 Currently: crafting **PuffManager** and leading **PuffContent**, a creative video editing agency  
+- 🔭 Currently: crafting **my own apps** and leading **PuffContent**, a creative video editing agency  
 - 🌱 Learning: how to blend **AI** with smart systems to automate and scale my work  
 - 🎯 Focus: building smooth **Next.js** frontends and tools that solve real-world problems  
 - ⚡ Fun: road trips 🚗, exploring new places 🌍, and losing track of time in good music 🎧  
 
-Always building, always learning — and having fun along the way.
+Always building, always learning and having fun along the way.
 
 ## Tech + Tools 🧰
 
@@ -42,26 +42,14 @@ Always building, always learning — and having fun along the way.
     <img src="https://img.shields.io/badge/Microsoft%20Office-%20?style=for-the-badge&logo=microsoftoffice&logoColor=white&color=000000" alt="Microsoft Office" />
 </p>
 
-## Projects 🚀
-
-- 💸 [**subtrack**](https://github.com/datwalkerv/subtrack)  
-  Take control of your subscriptions. Track, manage, and never miss a renewal again. 📅  
-
-- 🔥 [**streaker**](https://github.com/datwalkerv/Streaker)  
-  App designed to help you track your daily progress towards a goal. 💪  
-
-- 📰 [**puffmanager**](https://github.com/datwalkerv/puffmanager)  
-  Content Manager app for Puffcontent editing agency. ✍️ 
- 
-
 <p align="center">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datwalkerv&layout=compact&theme=vision-friendly-dark&count_private=true&hide_border=true" height="120" />
-    <img src="https://streak-stats.demolab.com/?user=datwalkerv&theme=vision-friendly-dark&hide_border=true&layout=compact&hide_current_streak=true&hide_longest_streak=true" height="120" alt="GitHub Streak" />
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=datwalkerv&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="120" />
+  <img src="https://datgitstats.vercel.app/api/stats?username=datwalkerv&amp;theme=amoled&amp;border_radius=0&amp;padding=30&amp;custom_title=datwalkerv%27s+GitHub+Stats&amp;title_color=ffffff&amp;hide=prs%2Cissues&amp;show=contributions%2Cfollowers&amp;show_avatar=true" alt="GitHub Stats" />
+  <img src="https://datgitstats.vercel.app/api/top-langs?username=datwalkerv&amp;theme=amoled&amp;border_radius=0&amp;padding=30&amp;title_color=ffffff" alt="Top Languages" />
+  <img src="https://datgitstats.vercel.app/api/streak?username=datwalkerv&amp;theme=amoled&amp;border_radius=0&amp;hide_current_streak=true&amp;hide_longest_streak=true" alt="GitHub Streak" />
 </p>
 
 ## Quick Contact 📨
 
-- Email: bbalint139@gmail.com
+- Web: [balagbalint](https://balagbalint.vercel.app/)
 - Instagram: <a href="https://www.instagram.com/balagbalint">@balagbalint</a>
 - Github: [@datwalkerv](https://github.com/datwalkerv)
