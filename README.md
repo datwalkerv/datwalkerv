@@ -43,13 +43,13 @@ Always building, always learning and having fun along the way.
 </p>
 
 <p align="center">
-  <img src="https://datgitstats.vercel.app/api/stats?username=datwalkerv&amp;theme=amoled&amp;border_radius=0&amp;padding=30&amp;custom_title=datwalkerv%27s+GitHub+Stats&amp;title_color=ffffff&amp;hide=prs%2Cissues&amp;show=contributions%2Cfollowers&amp;show_avatar=true" alt="GitHub Stats" />
-  <img src="https://datgitstats.vercel.app/api/top-langs?username=datwalkerv&amp;theme=amoled&amp;border_radius=0&amp;padding=30&amp;title_color=ffffff" alt="Top Languages" />
-  <img src="https://datgitstats.vercel.app/api/streak?username=datwalkerv&amp;theme=amoled&amp;border_radius=0&amp;hide_current_streak=true&amp;hide_longest_streak=true" alt="GitHub Streak" />
+  <img src="https://datgitstats.vercel.app/api/stats?username=datwalkerv&amp;theme=amoled&amp;border_radius=0&amp;padding=30&amp;custom_title=datwalkerv%27s+GitHub+Stats&amp;title_color=ffffff&amp;hide=prs%2Cissues&amp;show=contributions%2Cfollowers&amp;show_avatar=true" alt="GitHub Stats" /> <br>
+  <img src="https://datgitstats.vercel.app/api/top-langs?username=datwalkerv&amp;theme=amoled&amp;border_radius=0&amp;height=268&amp;padding=30&amp;show_percent=false" alt="Top Languages" />
+  <img src="https://datgitstats.vercel.app/api/streak?username=datwalkerv&amp;theme=amoled&amp;border_radius=0&amp;hide_current_streak=true&amp;hide_longest_streak=true&amp;show_graph=true" alt="GitHub Streak" />
 </p>
 
 ## Quick Contact 📨
 
-- Web: [balagbalint](https://balagbalint.vercel.app/)
-- Instagram: <a href="https://www.instagram.com/balagbalint">@balagbalint</a>
-- Github: [@datwalkerv](https://github.com/datwalkerv)
+<a href="https://balagbalint.vercel.app/"><img src="https://img.shields.io/badge/balagbalint-%20?style=for-the-badge&logoColor=white&color=000000" alt="Webpage"/></a>
+<a href="https://www.instagram.com/balagbalint"><img src="https://img.shields.io/badge/instagram-%20?style=for-the-badge&logoColor=white&color=000000" alt="Instagram"/></a>
+<a href="https://github.com/datwalkerv"><img src="https://img.shields.io/badge/github-%20?style=for-the-badge&logoColor=white&color=000000" alt="Github"/></a>
